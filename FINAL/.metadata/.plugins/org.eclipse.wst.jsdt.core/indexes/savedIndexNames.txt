@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Miguel\Desktop\MIGUEL\DESARROLLO DE APLICACIONES FULL STACK JAVA TRAINEE\MODULO 4\FINAL\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+916572201.index
+1321603465.index
+1841982564.index
+89299458.index
+2908049504.index
+561425208.index

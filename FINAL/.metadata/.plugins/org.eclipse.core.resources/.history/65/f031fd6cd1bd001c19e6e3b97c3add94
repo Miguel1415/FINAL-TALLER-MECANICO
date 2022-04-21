@@ -1,0 +1,13 @@
+import java.util.ArrayList;
+
+public class Taller {
+
+	
+	private ArrayList <Cliente> listaClientes;
+	
+	public Taller() 
+	{
+		this.listaClientes = new ArrayList<Cliente>();
+	}
+	 public void agregarCliente(String rutCliente, String nombreCliente);
+}
